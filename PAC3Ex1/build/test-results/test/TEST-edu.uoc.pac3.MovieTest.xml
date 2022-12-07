@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.MovieTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-11-15T09:11:13" hostname="VIVOBOOK_UGE" time="0.087">
+  <properties/>
+  <testcase name="Sanity - Attributes and Methods definition" classname="edu.uoc.pac3.MovieTest" time="0.031"/>
+  <testcase name="getSummary()" classname="edu.uoc.pac3.MovieTest" time="0.002"/>
+  <testcase name="getReleaseDate()" classname="edu.uoc.pac3.MovieTest" time="0.001"/>
+  <testcase name="getTrailer()" classname="edu.uoc.pac3.MovieTest" time="0.002"/>
+  <testcase name="setDuration()" classname="edu.uoc.pac3.MovieTest" time="0.004"/>
+  <testcase name="isOv()" classname="edu.uoc.pac3.MovieTest" time="0.001"/>
+  <testcase name="getDuration()" classname="edu.uoc.pac3.MovieTest" time="0.001"/>
+  <testcase name="getId()" classname="edu.uoc.pac3.MovieTest" time="0.001"/>
+  <testcase name="setId()" classname="edu.uoc.pac3.MovieTest" time="0.002"/>
+  <testcase name="setOv()" classname="edu.uoc.pac3.MovieTest" time="0.003"/>
+  <testcase name="setSummary()" classname="edu.uoc.pac3.MovieTest" time="0.002"/>
+  <testcase name="setTitle()" classname="edu.uoc.pac3.MovieTest" time="0.001"/>
+  <testcase name="setTrailer()" classname="edu.uoc.pac3.MovieTest" time="0.016"/>
+  <testcase name="getTitle()" classname="edu.uoc.pac3.MovieTest" time="0.002"/>
+  <testcase name="setReleaseDate()" classname="edu.uoc.pac3.MovieTest" time="0.002"/>
+  <system-out><![CDATA[[ERROR] The duration of the trailer cannont be 0, negative or greater than 180
+[ERROR] The release date of the trailer cannont be null or a date that is later than today
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

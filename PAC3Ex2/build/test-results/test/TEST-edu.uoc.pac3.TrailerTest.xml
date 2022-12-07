@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.TrailerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-18T08:30:49" hostname="VIVOBOOK_UGE" time="0.014">
+  <properties/>
+  <testcase name="Sanity - Attributes and Methods definition" classname="edu.uoc.pac3.TrailerTest" time="0.002"/>
+  <testcase name="getFormattedDuration()" classname="edu.uoc.pac3.TrailerTest" time="0.001"/>
+  <testcase name="getUrl()" classname="edu.uoc.pac3.TrailerTest" time="0.001"/>
+  <testcase name="setUrl()" classname="edu.uoc.pac3.TrailerTest" time="0.0"/>
+  <testcase name="getReleaseDate()" classname="edu.uoc.pac3.TrailerTest" time="0.0"/>
+  <testcase name="setDuration()" classname="edu.uoc.pac3.TrailerTest" time="0.002"/>
+  <testcase name="getDuration()" classname="edu.uoc.pac3.TrailerTest" time="0.0"/>
+  <testcase name="setReleaseDate()" classname="edu.uoc.pac3.TrailerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

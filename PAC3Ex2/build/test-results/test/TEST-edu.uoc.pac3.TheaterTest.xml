@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.TheaterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-18T08:30:49" hostname="VIVOBOOK_UGE" time="0.01">
+  <properties/>
+  <testcase name="movieExists()" classname="edu.uoc.pac3.TheaterTest" time="0.001"/>
+  <testcase name="Sanity - Attributes and Methods definition" classname="edu.uoc.pac3.TheaterTest" time="0.002"/>
+  <testcase name="canScreenMoreMovies()" classname="edu.uoc.pac3.TheaterTest" time="0.0"/>
+  <testcase name="getName()" classname="edu.uoc.pac3.TheaterTest" time="0.0"/>
+  <testcase name="getMovies()" classname="edu.uoc.pac3.TheaterTest" time="0.0"/>
+  <testcase name="getMovie()" classname="edu.uoc.pac3.TheaterTest" time="0.001"/>
+  <testcase name="setName()" classname="edu.uoc.pac3.TheaterTest" time="0.001"/>
+  <testcase name="getCapacity()" classname="edu.uoc.pac3.TheaterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

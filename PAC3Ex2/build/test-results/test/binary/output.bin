@@ -1,0 +1,2 @@
+P[ERROR] The duration of the trailer cannont be 0, negative or greater than 180
+\[ERROR] The release date of the trailer cannont be null or a date that is later than today

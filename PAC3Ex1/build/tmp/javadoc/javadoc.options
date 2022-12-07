@@ -1,0 +1,8 @@
+-classpath 'B:\\DPOO\\PEC3\\PAC3Ex1\\build\\classes\\java\\main;B:\\DPOO\\PEC3\\PAC3Ex1\\build\\resources\\main'
+-d 'B:\\DPOO\\PEC3\\PAC3Ex1\\build\\docs\\javadoc'
+-doctitle 'PAC3Ex1 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'PAC3Ex1 1.0-SNAPSHOT API'
+'B:\\DPOO\\PEC3\\PAC3Ex1\\src\\main\\java\\edu\\uoc\\pac3\\Movie.java'
+'B:\\DPOO\\PEC3\\PAC3Ex1\\src\\main\\java\\edu\\uoc\\pac3\\Trailer.java'
